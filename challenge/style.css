@@ -1,0 +1,79 @@
+body {
+  background: url(img/background.jpg);
+  background-size:100%;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.interfaccia{
+  width:1200px;
+  background-color:rgba(5,5,5,.5);
+  margin: auto;
+  border-radius:25px;
+}
+
+header{text-align: center;}
+
+header img{
+ width:20%;
+ margin-top: 100px;
+}
+
+
+header span{
+  color:#00DD00;
+  text-align: center;
+  display: block;
+  font-size: 35px;
+}
+
+
+
+
+.prenotazione{
+ width: 1000px;
+ background-color: #00DD00;
+ border: 1px solid black;
+ padding: 10px;
+ text-align:center;
+ margin: auto;
+}
+
+.avaible-scooter{
+ padding-bottom: 100px
+}
+
+.scooter{
+ margin-top: 30px;
+ margin-left: 89px;
+}
+
+.id-monopattino{
+color: white;
+font-size: 25px
+}
+
+.avaible-scooter div{
+  font-size:18px;
+  color: white;
+}
+
+.barra1{
+  width: 300px;
+  height: 20px;
+  background-color: #ED9121;
+  border-radius: 5px;
+}
+
+.barra2{
+  width: 500px;
+  height: 20px;
+  background-color: #66CD00;
+  border-radius: 5px;
+}
+
+.barra3{
+  width: 100px;
+  height: 20px;
+  background-color:#EE2C2C ;
+  border-radius: 5px;
+}
